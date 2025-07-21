@@ -9,8 +9,6 @@ Using real-world transit data spanning multiple years, this study analyzes passe
 - **Transport Modes:** Bus, Train, Ferry, Tram
 
 ## Project Objectives
-
-### Primary Objectives
 - Analyze ridership patterns across different transportation modes and time periods
 - Identify peak usage times, seasonal trends, and route-specific performance metrics
 - Examine fare structure effectiveness and revenue optimization opportunities
@@ -19,7 +17,6 @@ Using real-world transit data spanning multiple years, this study analyzes passe
 
 
 ## Methodology and Process
-
 ### 1. Data Collection and Preparation
 - **Data Sources:** Transit card transactions, mobile ticketing systems, passenger counting sensors
 - **Data Cleaning:** Handled missing values, standardized route identifiers, removed duplicate transactions
