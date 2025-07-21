@@ -26,7 +26,7 @@ Using real-world transit data spanning multiple years, this study analyzes passe
 ### 2. Exploratory Data Analysis Framework
 - **Temporal Analysis:** Examined ridership patterns by hour, day of week, month, and seasonal variations
 - **Spatial Analysis:** Analyzed route-level performance, station-to-station flows, and geographic distribution
-- **Modal Analysis:** Compared performance metrics across different transportation modes (bus, rail, ferry, metro)
+- **Modal Analysis:** Compared performance metrics across different transportation modes (bus, train, ferry, tram)
 - **Fare Analysis:** Evaluated pricing structures, revenue patterns, and fare elasticity by route and time
 
 ### 3. Statistical Analysis Techniques
@@ -106,40 +106,6 @@ Using real-world transit data spanning multiple years, this study analyzes passe
 **Predictive Maintenance:** Implement ML models to predict vehicle maintenance needs based on usage patterns, reducing service disruptions and improving reliability.
 
 **Real-Time Optimization:** Deploy machine learning systems for dynamic route optimization, fare pricing, and resource allocation based on real-time demand and operational conditions.
-
-## Implementation Roadmap
-
-### Phase 1: Immediate Actions (0-6 months)
-- Deploy real-time monitoring dashboards for critical route performance metrics
-- Implement pilot dynamic pricing program on 3 high-volume routes
-- Establish predictive demand forecasting for major transportation corridors
-- Launch targeted marketing campaigns for underutilized off-peak services
-
-### Phase 2: Medium-term Improvements (6-18 months)
-- Roll out comprehensive dynamic fare structure across the entire network
-- Implement machine learning-based demand prediction and capacity optimization
-- Develop advanced passenger segmentation and personalized service offerings
-- Create integrated operational analytics platform for system-wide optimization
-
-### Phase 3: Long-term Strategic Initiatives (18+ months)
-- Deploy fully automated scheduling and resource allocation systems
-- Implement predictive maintenance programs across all vehicle fleets
-- Establish real-time passenger flow optimization and congestion management
-- Create comprehensive smart city integration with traffic management systems
-
-## Expected Outcomes and Success Metrics
-
-### Performance Improvements
-- **Revenue Increase:** 15-20% improvement through dynamic pricing and demand optimization
-- **Capacity Utilization:** 25% improvement in off-peak ridership through targeted incentives
-- **On-Time Performance:** 10% improvement through predictive scheduling and maintenance
-- **Passenger Satisfaction:** 20% increase through reduced overcrowding and improved service reliability
-
-### Operational Efficiency
-- **Cost Reduction:** 12% decrease in operational costs through optimized resource allocation
-- **Fuel Efficiency:** 8% improvement through route optimization and predictive maintenance
-- **Service Coverage:** 15% increase in service coverage through efficient route planning
-- **Response Time:** 30% faster response to service disruptions through real-time monitoring
 
 ## Conclusions
 
