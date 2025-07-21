@@ -39,18 +39,10 @@ Using real-world transit data spanning multiple years, this study analyzes passe
 - **Comparative Analysis:** Performance benchmarking across routes, modes, and time periods
 - **Distribution Analysis:** Passenger flow distributions, peak/off-peak usage patterns
 
-### 4. Data Visualization and Dashboard Development
-- **Interactive Dashboards:** Real-time route performance monitoring and ridership analytics
-- **Heatmaps:** Temporal and spatial ridership pattern visualization
-- **Network Graphs:** Route connectivity and passenger flow visualization
-- **Performance Metrics:** KPI dashboards for operational efficiency tracking
-- **Trend Analysis:** Time series plots for ridership trends and forecasting
-
 ### 5. Tools and Technologies
 - **Programming Languages:** Python, R for statistical analysis and data processing
 - **Libraries:** Pandas, NumPy, Scikit-learn for data manipulation and analysis
 - **Visualization Tools:** Matplotlib, Seaborn, Plotly for static and interactive visualizations
-
 
 ## Key Insights and Findings
 ### Ridership Patterns and Trends
