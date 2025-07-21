@@ -36,7 +36,7 @@ Using real-world transit data spanning multiple years, this study analyzes passe
 - **Comparative Analysis:** Performance benchmarking across routes, modes, and time periods
 - **Distribution Analysis:** Passenger flow distributions, peak/off-peak usage patterns
 
-### 5. Tools and Technologies
+### 4. Tools and Technologies
 - **Programming Languages:** Python, R for statistical analysis and data processing
 - **Libraries:** Pandas, NumPy, Scikit-learn for data manipulation and analysis
 - **Visualization Tools:** Matplotlib, Seaborn, Plotly for static and interactive visualizations
